@@ -8,7 +8,7 @@ from Metodos import bubble_sort, quicksort, binary_search
 from Clientes import generar_clientes
 
 # Generar un diccionario de clientes
-clientes = generar_clientes(101) #llama a la función para generar clientes aleatorios simulando una base de datos
+clientes = generar_clientes(101)  # reemplazamos por 99  #llama a la función para generar clientes aleatorios simulando una base de datos
 print("Clientes generados:", clientes) #Muestra los clientes generados aleatoriamente
 print("-----------------------------------") #Separador visual
 

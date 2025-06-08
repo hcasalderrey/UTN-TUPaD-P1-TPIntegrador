@@ -1,8 +1,12 @@
 # TP Integrador: Algoritmos de Búsqueda y Ordenamiento
 
+## UTN-TUPaD Programación 1
+
 ## Integrantes
+
 - Christian Bustamante
 - Hernan Casalderrey
+
 - Comisión 6
 
 ## Descripción
