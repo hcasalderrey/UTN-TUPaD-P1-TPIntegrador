@@ -18,7 +18,6 @@ Este trabajo práctico implementa y compara algoritmos clásicos de ordenamiento
 - [`Clientes.py`](Clientes.py): Genera un diccionario de clientes con IDs únicos aleatorios.
 - [`Metodos.py`](Metodos.py): Implementa los algoritmos de ordenamiento (`bubble_sort`, `quicksort`) y búsqueda (`binary_search`).
 - [`TP.py`](TP.py): Script principal que integra la generación de clientes, el ordenamiento de sus IDs y la búsqueda de un cliente específico.
-- `__pycache__/`: Archivos compilados de Python.
 
 ## Ejecución
 
