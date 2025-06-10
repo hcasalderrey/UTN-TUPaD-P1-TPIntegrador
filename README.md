@@ -30,3 +30,4 @@ Este trabajo práctico implementa y compara algoritmos clásicos de ordenamiento
 ## Anexo
 
 1. Informe: `TP-IntegradorP1.pdf`
+2. Youtube: `https://youtu.be/OI38TLJlLp0`
