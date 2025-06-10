@@ -25,4 +25,8 @@ Este trabajo práctico implementa y compara algoritmos clásicos de ordenamiento
 2. Ejecute el archivo principal:
 
    ```sh
-   python TP.py
+   python TP.py```
+
+## Anexo
+
+1. Informe: `TP-IntegradorP1.pdf`
